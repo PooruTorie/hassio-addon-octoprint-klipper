@@ -1,0 +1,5 @@
+{
+  "name": "Home-Assistant Octoprint Klipper add-on",
+  "url": "https://github.com/PooruTorie/hassio-addon-octoprint-klipper",
+  "maintainer": "Paul Triebel (@PooruTorie)"
+}
